@@ -1,0 +1,27 @@
+{
+  "name": "@nahkd123/fastdom",
+  "version": "1.0.0",
+  "description": "Manipulate DOM faster",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -b",
+    "build:watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahkd123/fastdom.git"
+  },
+  "keywords": [
+    "dom",
+    "html5"
+  ],
+  "author": "nahkd123",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nahkd123/fastdom/issues"
+  },
+  "homepage": "https://github.com/nahkd123/fastdom#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
